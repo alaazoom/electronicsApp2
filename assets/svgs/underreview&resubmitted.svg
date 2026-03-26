@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="none" viewBox="0 0 40 40">
+  <rect width="40" height="40" fill="#FACC15" fill-opacity=".1" rx="20"/>
+  <path stroke="#FACC15" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M29.25 20A9.25 9.25 0 0 1 20 29.25 9.25 9.25 0 0 1 10.75 20 9.25 9.25 0 0 1 20 10.75 9.25 9.25 0 0 1 29.25 20Z" clip-rule="evenodd"/>
+  <path stroke="#FACC15" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m23.431 22.943-3.77-2.25v-4.846"/>
+</svg>
